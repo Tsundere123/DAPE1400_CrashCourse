@@ -13,7 +13,7 @@ public class TryCatch_3 {
 
         int[] myNumbers = {1, 2, 3};
         System.out.println("Java: I guess I crash now :(");
-//        System.out.println(myNumbers[10]); //Comment me out to stop the crashing
+        System.out.println(myNumbers[10]); //Comment me out to stop the crashing
 
         //We see this above line of code will give a
         //Index out of bounds error

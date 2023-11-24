@@ -15,7 +15,7 @@ public class ForLoops_5 {
         //Your student ID therefore has limited scope as ID
         //The same applies to our variable int i = 0 that we declared inside the for loop
         //You can't use it outside
-        i = 0; //Java will complain. Comment out this line to make the program run
+//        i = 0; //Java will complain. Comment out this line to make the program run
 
         //Scope is set "downwards" (or inwards if you want)
         //That means anything you declare, can be used inside "itself", and anything that is contained, like the for loop below
