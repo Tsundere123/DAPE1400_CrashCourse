@@ -16,7 +16,7 @@ Either
 
 -in Intellij, go to Git -> Clone and paste https://github.com/Tsundere123/DAPE1400_CrashCourse.git as the URL
 
--In the terminal git clone https://github.com/Tsundere123/DAPE1400_CrashCourse.git (Will clone to whatever folder/directory you are currently in!)
+-In the terminal `git clone https://github.com/Tsundere123/DAPE1400_CrashCourse.git` (Will clone to whatever folder/directory you are currently in!)
 
 ## useful IntelliJ keybinds
 https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html#advanced-features
