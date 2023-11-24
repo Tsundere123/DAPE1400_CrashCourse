@@ -20,6 +20,8 @@ public class ForLoops_5 {
         //Scope is set "downwards" (or inwards if you want)
         //That means anything you declare, can be used inside "itself", and anything that is contained, like the for loop below
         int value = 10; //We will use this in the loop
+
+        System.out.println("This is the first for loop on line 25");
         for(int i = 0; i <= value; i++){
             //For loops are broken down into 3 parts
             //(PART1: Variable declaration; PART2: Check/iftest; PART3: Do after every loop instance)
@@ -27,11 +29,23 @@ public class ForLoops_5 {
             System.out.println(i); //prints out the value of i
             //Should print 11 lines, counting from 0 to and including 10
         }
+        System.out.println("The for loop on line 25 has ended");
+
+        //You can think of a for loop as a cleaner way to write a specific type of while loop
+
+        System.out.println("This is the output from the while loop at line 38");
+        int j = 0; //Declares a variable j
+        while(j <= value){ //While (as long as9 j is smaller than or equal to value (which we've set in line 22 as 10)
+            System.out.println(j); //print a new line with the value of J
+            j++; //Increment (increase by 1) j
+        }
+        System.out.println("This is the end of the output from the while loop. The output is the same as the first for loop");
 
         //What about infinite loops?
         //See the method below
         infiniteForLoop(); //Comment this out unless you actually want to run the infinite loop
 
+        System.out.println("Return statement demonstration. It just stopped at 0");
         returnStatementDemo(); //Demo of the return statement. Output will be 0
     }
 
