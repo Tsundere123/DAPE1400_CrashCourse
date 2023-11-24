@@ -3,6 +3,12 @@
 # The program will not run by default. There are intentional bugs in it for demonstrational purposes
 # Comment out the indicated lines to run the programs!
 
+## uwu, whats this?
+A crash course I held for the OsloMet course DAPE1400 introduction to object oriented programming (Java) on the 23rd November 2023
+Unfortunately the recordings weren't really useful, soz .-.
+
+So instead I've spent the time to clean up the code, and instead cover what I did live in the lecture in the comments instead
+
 ## If you want to download this demo
 Either
 
@@ -11,12 +17,6 @@ Either
 -in Intellij, go to Git -> Clone and paste https://github.com/Tsundere123/DAPE1400_CrashCourse.git as the URL
 
 -In the terminal git clone https://github.com/Tsundere123/DAPE1400_CrashCourse.git (Will clone to whatever folder/directory you are currently in!)
-
-## uwu, whats this?
-A crash course I held for the OsloMet course DAPE1400 introduction to object oriented programming (Java)
-Unfortunately the recordings weren't really useful, soz .-.
-
-So instead I've spent the time to clean up the code, and instead cover what I did live in the lecture in the comments instead
 
 ##useful IntelliJ keybinds
 https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html#advanced-features
@@ -31,6 +31,10 @@ The classes have a _number ending
 -IfTests_2
 -TryCatch_3
 -etc
+
+I also covered 2 exam tasks
+Continuation exam 2022, task 1 is in the root src folder
+Continuation exam 2022, task 2 is in its own package com.konte22.task2
 
 The number at the end denoes the order I covered them/suggest you read the demos
 
