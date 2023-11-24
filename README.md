@@ -45,3 +45,6 @@ They're not really useful without the original context, but if you want to see w
 
 If you're taking the DAPE1400 exam: Good luck <3
 If you're just some random passerby, I hope you have a great day :3
+
+### I probably didn't use correct Java naming conventions and capitalisation
+sowwy
