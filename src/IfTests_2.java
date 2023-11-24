@@ -10,7 +10,7 @@ public class IfTests_2 {
         //Do note that you cannot pass an invalid variable into a method
         double invalidVariable = 12.2;
         //Java will undergo a significant emotional event seeing a double be passed into a method that demands an int
-//        checkIfNumberIsPositive(invalidVariable);
+        checkIfNumberIsPositive(invalidVariable);
         //To actually compile and run this, you will have to comment out the above line by typing // before it
     }
 
