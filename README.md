@@ -5,6 +5,7 @@
 
 ## If you want to download this demo
 Either
+
 -click the green <> Code button, and download ZIP
 
 -in Intellij, go to Git -> Clone and paste https://github.com/Tsundere123/DAPE1400_CrashCourse.git as the URL
