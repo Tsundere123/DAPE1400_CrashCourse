@@ -48,3 +48,4 @@ If you're just some random passerby, I hope you have a great day :3
 
 ### I probably didn't use correct Java naming conventions and capitalisation
 sowwy
+https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
