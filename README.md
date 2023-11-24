@@ -18,13 +18,13 @@ Either
 
 -In the terminal git clone https://github.com/Tsundere123/DAPE1400_CrashCourse.git (Will clone to whatever folder/directory you are currently in!)
 
-##useful IntelliJ keybinds
+## useful IntelliJ keybinds
 https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html#advanced-features
 https://www.dailycodebuffer.com/27-intellij-shortcuts/
 
 I'll fix the Git/Github demo/explanation later
 
-##How to use the demo / reading order
+## How to use the demo / reading order
 The classes have a _number ending
 -Main_0
 -MethodsAndVariables_1
@@ -38,7 +38,7 @@ Continuation exam 2022, task 2 is in its own package com.konte22.task2
 
 The number at the end denoes the order I covered them/suggest you read the demos
 
-###Sidenote about the branches
+### Sidenote about the branches
 There are a bunch of branches
 These were used in the original lecture I held
 They're not really useful without the original context, but if you want to see what I did live then its there
