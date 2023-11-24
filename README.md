@@ -38,5 +38,10 @@ Continuation exam 2022, task 2 is in its own package com.konte22.task2
 
 The number at the end denoes the order I covered them/suggest you read the demos
 
+###Sidenote about the branches
+There are a bunch of branches
+These were used in the original lecture I held
+They're not really useful without the original context, but if you want to see what I did live then its there
+
 If you're taking the DAPE1400 exam: Good luck <3
 If you're just some random passerby, I hope you have a great day :3
