@@ -1,33 +1,34 @@
 public class Arv {
 
     interface animal{
-        int antallBen;
-        public static void spise(){
+        int antallBen = 0;
+        static void spise(){
             System.out.println("nom nom");
         }
     }
 
-    class tiger extends animal{
+    static class tiger implements animal {
+
         public static void spise(){
             System.out.println("chomp chomp");
         }
     }
-    class fugl extends animal{
+    static class fugl implements animal {
 
     }
 
-    class cat extends animal{
+    static class cat implements animal {
 
     }
 
     interface eksamen{
-        ID;
-        deg selv;
+//        ID;
+//        deg selv;
     }
     class eksamenMedHjelpemidler implements eksamen{
-        id;
-        deg selv;
-        tillatte hjelpemidler;
+//        id;
+//        deg selv;
+//        tillatte hjelpemidler;
 
     }
 }

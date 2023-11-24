@@ -14,17 +14,17 @@ public class Main {
 //        Polymorphism.doSomething(12.2);
 //        Polymorphism.doSomething(1);
 
-        tiger leon = new tiger;
-        leon.eat;
+        Arv.tiger leon = new Arv.tiger();
+        leon.spise();
         //chomp chomp
 
-        cat bob = new cat;
-        bob.eat;
+        Arv.cat bob = new Arv.cat();
+        Arv.animal.spise();
         bob.antallBen = 4;
         //nom nom
 
-        fugl pipip = new fugl;
-        pipip.antallBen= 2;
+        Arv.fugl pipip = new Arv.fugl();
+        pipip.antallBen = 2;
     }
 
 
